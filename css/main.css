@@ -1,0 +1,184 @@
+header{
+
+	background-color: #C8C5BE;
+	padding: 10px;
+}
+
+body{
+	 font-family: "oswald";
+	 color: white;
+	 background-color: #EEEDEB;
+}
+
+.container{
+	background-color: #2D509F;
+	text-align: center;
+}
+
+.footer{
+	background-color: #2D509F;
+}
+
+.priv{
+	text-align: right;
+	padding-right: 5px;
+}
+
+.visit{
+	text-align: center;
+	background-color: #9A1C1F;
+	border-radius: 50px;
+	margin: 10rem;
+	margin-top: 2rem;
+	margin-bottom: 4rem;
+	padding: 0.5rem;
+}
+
+.visit a{
+	color: white;
+	font-size: 28px;
+}
+
+.hours{
+	text-align: right;
+	padding-right: 150px;
+	padding-left: 20px;
+	color: #2D509F;
+}
+
+.prices{
+	text-align: right;
+	padding-right: 150px;
+	padding-left: 200px;
+	color: #2D509F;
+}
+
+.bhof{
+	padding-right: 130px;
+}
+
+h4{
+	padding-left: 150px;
+	color: #2D509F;
+	font-family: "oswald";
+	font-size: 25px;
+}
+
+h5{
+	padding-left: 150px;
+	color: #2D509F;
+	font-family: "oswald";
+	font-size: 25px;
+}
+
+
+.logo-bhof{
+	padding: 10px;
+}
+
+.container2{
+	position: relative;
+}
+
+#main-menu nav {
+ display: flex;
+ height: 100%;
+}
+#main-menu ul {
+ margin: auto 0;
+ padding: 0;
+ list-style: none;
+}
+.hofcaption{
+	background-color: #9A1C1F;
+}
+
+.djplaquecaption{
+	text-align: center;
+	background-color: #9A1C1F;
+	
+	margin: 10rem;
+	margin-top: 0.5rem;
+	margin-bottom: 0.5rem;
+
+}
+
+#main-menu nav{
+	display: flex;
+	height: 100;
+}
+
+#main-menu ul{
+	margin: auto 0;
+	padding: 0;
+	list-style: none;
+}
+
+#main-menu{
+	background-color: #2D509F;
+	font-size: 40px;
+}
+
+#main-menu a{
+	color: #ffffff;
+}
+
+.hofcaption{
+	text-align: center;
+}
+
+
+.djpicture{
+	padding-left: 175px;
+	padding-bottom: 10px;
+}
+
+.hofpicture2020{
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.classof2020caption h1{
+	background-color: #9A1C1F;
+	color: white;
+	text-align: center;
+	border-radius: 50px;
+	margin: 10rem;
+	margin-top: 1rem;
+	margin-bottom: 4rem;
+	padding: 0.5rem;
+	font-family: "oswald";
+}
+
+.classof2020caption h1 a{
+	color: white;
+}
+h2{
+		background-color: #9A1C1F;
+	color: white;
+	text-align: center;
+	border-radius: 50px;
+	margin: 10rem;
+	margin-top: 2rem;
+	margin-bottom: 4rem;
+	padding: 0.5rem;
+	font-family: "oswald";
+}
+
+h3{
+	background-color: #9A1C1F;
+	color: white;
+	text-align: center;
+	border-radius: 50px;
+	margin: 10rem;
+	margin-top: 2rem;
+	margin-bottom: 4rem;
+	padding: 0.5rem;
+	font-family: "oswald";
+}
+
+.hofpicture2{
+	background-size: cover;
+}
